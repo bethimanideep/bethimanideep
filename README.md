@@ -5,7 +5,7 @@ Web Developer
 -------------
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [Gagan BN](https://bethimanideep.github.io/)
+* 🖥️  See my portfolio at [Manideep](https://bethimanideep.github.io/)
 * ✉️  You can contact me at [bethimanideep@gmail.com](mailto:bethimanideep@gmail.com)
 
 ### Skills
