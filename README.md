@@ -4,7 +4,7 @@
 <h4 align="center" margin="0px">I am a Full Stack Web Developer, passionate about building digital products that improve the everyday experience for people.</h4>
 
 <h2 align="center">console.log("Hello World !!");</h2>
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGM3YzlkYTVkMDJiNTYwZjA3ZTUzMTk5ZDg0OGRlYTFmNGYzN2Y4MiZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="50%" align="right" height="250" alt="" />
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGM3YzlkYTVkMDJiNTYwZjA3ZTUzMTk5ZDg0OGRlYTFmNGYzN2Y4MiZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="45%" align="right" height="250" alt="" />
 
 
 - 👨‍💻 See my Portfolio here [Portfolio](https://bethimanideep.github.io/)
