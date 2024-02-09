@@ -11,7 +11,7 @@
 
 - 📫 Reach me at *bethimanideep@gmail.com*
 
-- 📄 Know more about me [Resume](https://drive.google.com/file/d/1ETLt-uafs-7SaK_VYXj1aeiUtgFDX_5O/view?usp=drive_link)
+- 📄 Know more about me [Resume](https://drive.google.com/file/d/1D9YP6LZ8Qv2RDcAju2bCKoJqgBNBmf5h/view?usp=drivesdk)
 
 - 👉 Connect with me on [LinkedIn](https://www.linkedin.com/in/bethi-manideep-84a594238/)
 
