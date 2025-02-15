@@ -1,9 +1,9 @@
 
 ![wave](https://user-images.githubusercontent.com/77038659/130917013-c209e83c-4b93-4de6-9258-5f318f24ab60.png)
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35" /> ~ I'm Manideep <img width="33" bottom="-20" src="https://user-images.githubusercontent.com/97526754/173172254-697ba77e-bed8-4ffc-b1d1-2c20ede245b0.gif" /></h1>
-<h4 align="center" margin="0px">I am a Full Stack Web Developer, passionate about building digital products that improve the everyday experience for people.</h4>
+<h1 align="center">Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35" /> ~ I'm Manideep 😄✨
+<h4 align="center" margin="0px">🚀 Full-Stack Web Developer | Expert in Building Scalable & Optimized Web Applications
+</h4>
 
-<h2 align="center">console.log("Hello World !!");</h2>
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGM3YzlkYTVkMDJiNTYwZjA3ZTUzMTk5ZDg0OGRlYTFmNGYzN2Y4MiZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="45%" align="right" height="250" alt="" />
 
 
@@ -13,7 +13,7 @@
 
 - 📄 Know more about me [Resume](https://drive.google.com/file/d/1D9YP6LZ8Qv2RDcAju2bCKoJqgBNBmf5h/view?usp=drivesdk)
 
-- 👉 Connect with me on [LinkedIn](https://www.linkedin.com/in/bethi-manideep-84a594238/)
+- 👉 Connect with me on [LinkedIn](https://www.linkedin.com/in/manideepbethi/)
 
 - ⚡ I love Exploring Technologies And Ethical Hacking
 
