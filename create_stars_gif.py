@@ -24,7 +24,7 @@ def load_font(size):
                 continue
     return ImageFont.load_default()
 
-name_font = load_font(76)
+name_font = load_font(64)
 sub_font  = load_font(30)
 
 # ── Stars ─────────────────────────────────────────────────────────────────────
@@ -136,7 +136,7 @@ def draw_frame(fi):
 
     pulse = 0.93 + 0.07 * math.sin(fi * 0.11)
 
-    bbox = draw.textbbox((0, 0), "Manideep Bethi", font=name_font)
+    bbox = draw.textbbox((0, 0), "Hi, I'm Manideep Bethi", font=name_font)
     tw   = bbox[2] - bbox[0]
     th   = bbox[3] - bbox[1]
     nx   = cx - tw // 2
@@ -145,11 +145,11 @@ def draw_frame(fi):
     # soft glow passes
     for gr in [20, 12, 6]:
         ga = int(18 * pulse * name_alpha / 255)
-        draw.text((nx, ny), "Manideep Bethi", font=name_font,
+        draw.text((nx, ny), "Hi, I'm Manideep Bethi", font=name_font,
                   fill=(ga, ga * 2, min(255, ga * 7)))
 
     bright = int((210 + 45 * pulse) * name_alpha / 255)
-    draw.text((nx, ny), "Manideep Bethi", font=name_font,
+    draw.text((nx, ny), "Hi, I'm Manideep Bethi", font=name_font,
               fill=(bright, bright, 255))
 
     # ── Subtitle typewriter ───────────────────────────────────────────────────

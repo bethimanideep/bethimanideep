@@ -2,10 +2,6 @@
   <img src="stars_banner.gif" alt="Manideep Bethi Banner" width="100%">
 </p>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <b>Manideep Bethi</b></h1>
-
-<h2 align="center"><b>AI Engineer · Full-Stack Software Engineer · GenAI & LLM Systems  </b></h2>
-
 <h3 align="center"><b>Building Scalable AI-Powered Applications</b></h3>
 
 <p align="center">
@@ -37,9 +33,9 @@
 </p>
 
 ---
-<a><img align="right" src="https://assets.leetcode.com/static_assets/marketing/1000.gif" width="260" height="260" /></a>
-## 👨‍💻 About Me
 
+## 👨‍💻 About Me
+<a><img align="right" src="https://assets.leetcode.com/static_assets/marketing/1000.gif" width="260" height="260" /></a>
 - 🏗️ **Full-Stack Web Developer & AI Engineer** - Building Scalable & Optimized Web Applications
 - 🚀 Architecting **Agentic AI · RAG Pipelines · MCP · Multi-Model LLM Orchestration**
 - 💻 **Tech Stack Expert** - React, Node.js, Express, MongoDB, TypeScript, REST APIs
