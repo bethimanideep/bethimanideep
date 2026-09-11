@@ -32,10 +32,17 @@
  </a> 
 </p>
 
+
+
+<p align="center">
+  <a><img src="https://assets.leetcode.com/static_assets/others/Knight.gif" width="300" height="300" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a><img src="https://assets.leetcode.com/static_assets/marketing/1000.gif" width="300" height="300" /></a>
+</p>
+
 ---
 
-## 👨‍💻 About Me
-<a><img align="right" src="https://assets.leetcode.com/static_assets/marketing/1000.gif" width="260" height="260" /></a>
+## 👨‍💻 About Me &nbsp;&nbsp; <a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=bethimanideep" alt="Profile Views"></a> &nbsp; <a href="https://github.com/bethimanideep?tab=followers"><img src="https://img.shields.io/github/followers/bethimanideep?label=Followers&style=social" alt="GitHub Followers"></a>
 - 🏗️ **Full-Stack Web Developer & AI Engineer** - Building Scalable & Optimized Web Applications
 - 🚀 Architecting **Agentic AI · RAG Pipelines · MCP · Multi-Model LLM Orchestration**
 - 💻 **Tech Stack Expert** - React, Node.js, Express, MongoDB, TypeScript, REST APIs
@@ -45,17 +52,6 @@
 - 📚 Building **[Projects](https://github.com/bethimanideep)**
 - 📫 Reach me at <a href="mailto:bethimanideep@gmail.com">bethimanideep@gmail.com</a>
 - 📞 +91 8106340328
-
-<br/>
-
-
-<p align="left">
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=bethimanideep" alt="Profile Views">
-</a>
-<a href="https://github.com/bethimanideep?tab=followers"><img src="https://img.shields.io/github/followers/bethimanideep?label=Followers&style=social" alt="GitHub Followers"></a>
-</p>
-
 
 ---
 
